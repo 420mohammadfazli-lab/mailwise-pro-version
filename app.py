@@ -9,7 +9,7 @@ BRAND_NAME = "MailWise AI"
 APP_URL = "https://mailwiseai.streamlit.app/"
 USDT_WALLET = "0x0c8Cd4Ef0214d8bA0688eD5986176022b7DDB4B5" 
 # آدرس اینستاگرام خودت را اینجا بگذار (مثلاً https://instagram.com/your_id)
-MY_INSTAGRAM = "https://instagram.com/YOUR_INSTAGRAM_ID" 
+MY_INSTAGRAM = "https://www.instagram.com/mailwise.ai/" 
 
 st.set_page_config(page_title=f"{BRAND_NAME} | Pro Edition", page_icon="💰", layout="centered")
 
